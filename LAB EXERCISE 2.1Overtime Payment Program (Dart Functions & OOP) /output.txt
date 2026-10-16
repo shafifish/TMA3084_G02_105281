@@ -1,1 +1,2 @@
+PS C:\Users\User\Desktop\test code\LAB EXERCISE 2.1Overtime Payment Program (Dart Functions & OOP)> dart run main.dart                                                  
 Total Salary = $5070.0 USD
